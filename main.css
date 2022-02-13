@@ -1,0 +1,54 @@
+#menu a {
+    font-size:18px;
+    font-family: 'Nunito', Verdana, sans-serif;
+}
+
+.boton {
+    
+    width: 120px;
+    height: 50px;
+    border-radius: 40px;
+    background-color:#0c6cfc ;
+    border-color:#0c6cfc ;
+    color: white;  
+}
+
+.imagen{
+    width: 200%;
+    height: 100%;
+}
+
+
+* {
+    font-family: 'Nunito', Verdana, sans-serif;
+}
+
+body.login {
+    background-color: #34889c;
+    background: linear-gradient(to right, #34889c, #4678c8);
+}
+
+
+.bg-login {
+    background-image: url('../img/login.svg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#main-page {
+    background-color: #f8f9fc;
+}
+.callout-primary {
+     border-left-width: 6px;
+     border-left-color: #428bca;
+}
+.callout-success {
+    border-left-width: 6px;
+    border-left-color: #1cc88a;
+}
+.callout-info {
+    border-left-width: 6px;
+    border-left-color: #36b9cc;;
+
+}
